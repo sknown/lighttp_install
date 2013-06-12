@@ -1,0 +1,1093 @@
+2013-06-12 14:52:41: (log.c.166) server started 
+2013-06-12 14:52:41: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 15:14:05: (server.c.1546) server stopped by UID = 0 PID = 22315 
+2013-06-12 15:14:41: (log.c.166) server started 
+2013-06-12 15:14:41: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 15:36:04: (server.c.1546) server stopped by UID = 0 PID = 22566 
+2013-06-12 15:36:22: (log.c.166) server started 
+2013-06-12 15:36:22: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 15:36:43: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 15:36:43: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 15:37:33: (log.c.166) server started 
+2013-06-12 15:37:33: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:26:08: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:26:08: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:26:43: (log.c.166) server started 
+2013-06-12 17:26:43: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:29:06: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:29:06: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:29:25: (log.c.166) server started 
+2013-06-12 17:29:25: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:33:01: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:33:01: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:33:13: (log.c.166) server started 
+2013-06-12 17:33:13: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:34:59: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:34:59: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:35:23: (log.c.166) server started 
+2013-06-12 17:35:23: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:45:44: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:45:44: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:45:56: (log.c.166) server started 
+2013-06-12 17:45:56: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:46:02: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:46:02: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:46:04: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:46:04: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:55:39: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:55:39: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:55:55: (log.c.166) server started 
+2013-06-12 17:55:55: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 17:55:58: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:55:58: (response.c.618) %s ,, %d.....
+ 
+2013-06-12 17:59:44: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 17:59:44: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 17:59:55: (log.c.166) server started 
+2013-06-12 17:59:55: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:04:44: (log.c.166) server started 
+2013-06-12 18:04:44: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:12:28: (log.c.166) server started 
+2013-06-12 18:12:28: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:12:34: (request.c.307) fd: 7 request-len: 422 
+GET /1.m3u8 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 18:12:34: (response.c.241) run condition 
+2013-06-12 18:12:34: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:12:34: (response.c.301) Request-URI  :  /1.m3u8 
+2013-06-12 18:12:34: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:12:34: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:12:34: (response.c.304) URI-path     :  /1.m3u8 
+2013-06-12 18:12:34: (response.c.305) URI-query    :   
+2013-06-12 18:12:34: (response.c.349) -- sanatising URI 
+2013-06-12 18:12:34: (response.c.350) URI-path     :  /1.m3u8 
+2013-06-12 18:12:34: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:12:34: (response.c.470) -- before doc_root 
+2013-06-12 18:12:34: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:34: (response.c.472) Rel-Path     : /1.m3u8 
+2013-06-12 18:12:34: (response.c.473) Path         :  
+2013-06-12 18:12:34: (response.c.521) -- after doc_root 
+2013-06-12 18:12:34: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:34: (response.c.523) Rel-Path     : /1.m3u8 
+2013-06-12 18:12:34: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 18:12:34: (response.c.541) -- logical -> physical 
+2013-06-12 18:12:34: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:34: (response.c.543) Rel-Path     : /1.m3u8 
+2013-06-12 18:12:34: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 18:12:34: (response.c.561) -- handling physical path 
+2013-06-12 18:12:34: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 18:12:34: (response.c.569) -- file found 
+2013-06-12 18:12:34: (response.c.570) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 18:12:34: (response.c.725) -- handling subrequest 
+2013-06-12 18:12:34: (response.c.726) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 18:12:34: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:12:34: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 10:12:34 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 18:12:35: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 18:12:35: (response.c.241) run condition 
+2013-06-12 18:12:35: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:12:35: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 18:12:35: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:12:35: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:12:35: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 18:12:35: (response.c.305) URI-query    :   
+2013-06-12 18:12:35: (response.c.349) -- sanatising URI 
+2013-06-12 18:12:35: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 18:12:35: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:12:35: (response.c.470) -- before doc_root 
+2013-06-12 18:12:35: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:35: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 18:12:35: (response.c.473) Path         :  
+2013-06-12 18:12:35: (response.c.521) -- after doc_root 
+2013-06-12 18:12:35: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:35: (response.c.523) Rel-Path     : /favicon.ico 
+2013-06-12 18:12:35: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:12:35: (response.c.541) -- logical -> physical 
+2013-06-12 18:12:35: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:12:35: (response.c.543) Rel-Path     : /favicon.ico 
+2013-06-12 18:12:35: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:12:35: (response.c.561) -- handling physical path 
+2013-06-12 18:12:35: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:12:35: (response.c.569) -- file found 
+2013-06-12 18:12:35: (response.c.570) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:16:45: (log.c.166) server started 
+2013-06-12 18:16:45: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:16:50: (request.c.307) fd: 7 request-len: 417 
+GET /2.m3u8 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/1.m3u8
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 18:16:50: (response.c.241) run condition 
+2013-06-12 18:16:50: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:16:50: (response.c.301) Request-URI  :  /2.m3u8 
+2013-06-12 18:16:50: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:16:50: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:16:50: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 18:16:50: (response.c.305) URI-query    :   
+2013-06-12 18:16:50: (response.c.349) -- sanatising URI 
+2013-06-12 18:16:50: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 18:16:50: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:16:50: (response.c.470) -- before doc_root 
+2013-06-12 18:16:50: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:16:50: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 18:16:50: (response.c.473) Path         :  
+2013-06-12 18:16:50: (response.c.521) -- after doc_root 
+2013-06-12 18:16:50: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:16:50: (response.c.523) Rel-Path     : /2.m3u8 
+2013-06-12 18:16:50: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:16:50: (response.c.541) -- logical -> physical 
+2013-06-12 18:16:50: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:16:50: (response.c.543) Rel-Path     : /2.m3u8 
+2013-06-12 18:16:50: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:16:50: (response.c.561) -- handling physical path 
+2013-06-12 18:16:50: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:16:50: (response.c.569) -- file found 
+2013-06-12 18:16:50: (response.c.570) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:21:56: (log.c.166) server started 
+2013-06-12 18:21:56: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:22:03: (request.c.307) fd: 7 request-len: 422 
+GET /2.m3u8 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 18:22:03: (response.c.241) run condition 
+2013-06-12 18:22:03: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:22:03: (response.c.301) Request-URI  :  /2.m3u8 
+2013-06-12 18:22:03: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:22:03: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:22:03: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 18:22:03: (response.c.305) URI-query    :   
+2013-06-12 18:22:03: (response.c.349) -- sanatising URI 
+2013-06-12 18:22:03: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 18:22:03: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:22:03: (response.c.470) -- before doc_root 
+2013-06-12 18:22:03: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 18:22:03: (response.c.473) Path         :  
+2013-06-12 18:22:03: (response.c.521) -- after doc_root 
+2013-06-12 18:22:03: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.523) Rel-Path     : /2.m3u8 
+2013-06-12 18:22:03: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:22:03: (response.c.541) -- logical -> physical 
+2013-06-12 18:22:03: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.543) Rel-Path     : /2.m3u8 
+2013-06-12 18:22:03: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:22:03: (response.c.561) -- handling physical path 
+2013-06-12 18:22:03: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:22:03: (response.c.728) -- handling subrequest 
+2013-06-12 18:22:03: (response.c.729) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:22:03: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:22:03: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 18:22:03: (mod_staticfile.c.414) not a regular file: /2.m3u8 -> /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:22:03: (response.c.740) -- subrequest finished 
+2013-06-12 18:22:03: (response.c.128) Response-Header: 
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Content-Length: 345
+Date: Wed, 12 Jun 2013 10:22:03 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 18:22:03: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 18:22:03: (response.c.241) run condition 
+2013-06-12 18:22:03: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:22:03: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 18:22:03: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:22:03: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:22:03: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 18:22:03: (response.c.305) URI-query    :   
+2013-06-12 18:22:03: (response.c.349) -- sanatising URI 
+2013-06-12 18:22:03: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 18:22:03: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:22:03: (response.c.470) -- before doc_root 
+2013-06-12 18:22:03: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 18:22:03: (response.c.473) Path         :  
+2013-06-12 18:22:03: (response.c.521) -- after doc_root 
+2013-06-12 18:22:03: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.523) Rel-Path     : /favicon.ico 
+2013-06-12 18:22:03: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:22:03: (response.c.541) -- logical -> physical 
+2013-06-12 18:22:03: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:22:03: (response.c.543) Rel-Path     : /favicon.ico 
+2013-06-12 18:22:03: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:22:03: (response.c.561) -- handling physical path 
+2013-06-12 18:22:03: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:22:03: (response.c.728) -- handling subrequest 
+2013-06-12 18:22:03: (response.c.729) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:22:03: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:22:03: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 18:22:03: (mod_staticfile.c.414) not a regular file: /favicon.ico -> /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 18:22:03: (response.c.740) -- subrequest finished 
+2013-06-12 18:22:03: (response.c.128) Response-Header: 
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Content-Length: 345
+Date: Wed, 12 Jun 2013 10:22:03 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 18:37:12: (server.c.1430) [note] graceful shutdown started 
+2013-06-12 18:37:12: (server.c.1546) server stopped by UID = 0 PID = 0 
+2013-06-12 18:37:26: (log.c.166) server started 
+2013-06-12 18:37:26: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 18:37:29: (request.c.307) fd: 7 request-len: 422 
+GET /2.m3u8 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 18:37:29: (response.c.241) run condition 
+2013-06-12 18:37:29: (response.c.300) -- splitting Request-URI 
+2013-06-12 18:37:29: (response.c.301) Request-URI  :  /2.m3u8 
+2013-06-12 18:37:29: (response.c.302) URI-scheme   :  http 
+2013-06-12 18:37:29: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 18:37:29: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 18:37:29: (response.c.305) URI-query    :   
+2013-06-12 18:37:29: (response.c.349) -- sanatising URI 
+2013-06-12 18:37:29: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 18:37:29: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:37:29: (response.c.470) -- before doc_root 
+2013-06-12 18:37:29: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:37:29: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 18:37:29: (response.c.473) Path         :  
+2013-06-12 18:37:29: (response.c.521) -- after doc_root 
+2013-06-12 18:37:29: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:37:29: (response.c.523) Rel-Path     : /2.m3u8 
+2013-06-12 18:37:29: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:37:29: (response.c.541) -- logical -> physical 
+2013-06-12 18:37:29: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 18:37:29: (response.c.543) Rel-Path     : /2.m3u8 
+2013-06-12 18:37:29: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:37:29: (response.c.561) -- handling physical path 
+2013-06-12 18:37:29: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:37:29: (response.c.728) -- handling subrequest 
+2013-06-12 18:37:29: (response.c.729) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 18:37:29: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 18:37:29: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 19:44:13: (log.c.166) server started 
+2013-06-12 19:44:13: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 19:44:25: (request.c.307) fd: 7 request-len: 427 
+GET /1.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 19:44:25: (response.c.241) run condition 
+2013-06-12 19:44:25: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:44:25: (response.c.301) Request-URI  :  /1.m3u8?ddd=12312 
+2013-06-12 19:44:25: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:44:25: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:44:25: (response.c.304) URI-path     :  /1.m3u8 
+2013-06-12 19:44:25: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 19:44:25: (response.c.349) -- sanatising URI 
+2013-06-12 19:44:25: (response.c.350) URI-path     :  /1.m3u8 
+2013-06-12 19:44:25: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:44:25: (response.c.470) -- before doc_root 
+2013-06-12 19:44:25: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.472) Rel-Path     : /1.m3u8 
+2013-06-12 19:44:25: (response.c.473) Path         :  
+2013-06-12 19:44:25: (response.c.521) -- after doc_root 
+2013-06-12 19:44:25: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.523) Rel-Path     : /1.m3u8 
+2013-06-12 19:44:25: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:44:25: (response.c.541) -- logical -> physical 
+2013-06-12 19:44:25: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.543) Rel-Path     : /1.m3u8 
+2013-06-12 19:44:25: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:44:25: (response.c.561) -- handling physical path 
+2013-06-12 19:44:25: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:44:25: (response.c.728) -- handling subrequest 
+2013-06-12 19:44:25: (response.c.729) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:44:25: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:44:25: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 11:44:25 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 19:44:25: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 19:44:25: (response.c.241) run condition 
+2013-06-12 19:44:25: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:44:25: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 19:44:25: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:44:25: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:44:25: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 19:44:25: (response.c.305) URI-query    :   
+2013-06-12 19:44:25: (response.c.349) -- sanatising URI 
+2013-06-12 19:44:25: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 19:44:25: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:44:25: (response.c.470) -- before doc_root 
+2013-06-12 19:44:25: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 19:44:25: (response.c.473) Path         :  
+2013-06-12 19:44:25: (response.c.521) -- after doc_root 
+2013-06-12 19:44:25: (response.c.522) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.523) Rel-Path     : /favicon.ico 
+2013-06-12 19:44:25: (response.c.524) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:44:25: (response.c.541) -- logical -> physical 
+2013-06-12 19:44:25: (response.c.542) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:44:25: (response.c.543) Rel-Path     : /favicon.ico 
+2013-06-12 19:44:25: (response.c.544) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:44:25: (response.c.561) -- handling physical path 
+2013-06-12 19:44:25: (response.c.562) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:44:25: (response.c.728) -- handling subrequest 
+2013-06-12 19:44:25: (response.c.729) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:44:25: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:44:25: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 19:49:06: (log.c.166) server started 
+2013-06-12 19:49:06: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 19:49:14: (request.c.307) fd: 7 request-len: 437 
+GET /2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/1.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 19:49:14: (response.c.241) run condition 
+2013-06-12 19:49:14: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:49:14: (response.c.301) Request-URI  :  /2.m3u8?ddd=12312 
+2013-06-12 19:49:14: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:49:14: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:49:14: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 19:49:14: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 19:49:14: (response.c.349) -- sanatising URI 
+2013-06-12 19:49:14: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 19:49:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:49:14: (response.c.470) -- before doc_root 
+2013-06-12 19:49:14: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:49:14: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 19:49:14: (response.c.473) Path         :  
+2013-06-12 19:49:14: (response.c.543) -- after doc_root 
+2013-06-12 19:49:14: (response.c.544) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:49:14: (response.c.545) Rel-Path     : /2.m3u8 
+2013-06-12 19:49:14: (response.c.546) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:49:14: (response.c.563) -- logical -> physical 
+2013-06-12 19:49:14: (response.c.564) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:49:14: (response.c.565) Rel-Path     : /2.m3u8 
+2013-06-12 19:49:14: (response.c.566) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:49:14: (response.c.583) -- handling physical path 
+2013-06-12 19:49:14: (response.c.584) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:49:14: (response.c.750) -- handling subrequest 
+2013-06-12 19:49:14: (response.c.751) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:49:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:49:14: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 19:52:06: (log.c.166) server started 
+2013-06-12 19:52:06: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 19:52:11: (request.c.307) fd: 7 request-len: 432 
+GET /2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 19:52:11: (response.c.241) run condition 
+2013-06-12 19:52:11: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:52:11: (response.c.301) Request-URI  :  /2.m3u8?ddd=12312 
+2013-06-12 19:52:11: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:52:11: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:52:11: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 19:52:11: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 19:52:11: (response.c.349) -- sanatising URI 
+2013-06-12 19:52:11: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 19:52:11: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:52:11: (response.c.470) -- before doc_root 
+2013-06-12 19:52:11: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:52:11: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 19:52:11: (response.c.473) Path         :  
+2013-06-12 19:52:11: (response.c.558) -- after doc_root 
+2013-06-12 19:52:11: (response.c.559) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:52:11: (response.c.560) Rel-Path     : /2.m3u8 
+2013-06-12 19:52:11: (response.c.561) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:52:11: (response.c.578) -- logical -> physical 
+2013-06-12 19:52:11: (response.c.579) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:52:11: (response.c.580) Rel-Path     : /2.m3u8 
+2013-06-12 19:52:11: (response.c.581) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:52:11: (response.c.598) -- handling physical path 
+2013-06-12 19:52:11: (response.c.599) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:52:11: (response.c.765) -- handling subrequest 
+2013-06-12 19:52:11: (response.c.766) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:52:11: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:52:11: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 19:57:25: (log.c.166) server started 
+2013-06-12 19:57:25: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 19:57:28: (request.c.307) fd: 7 request-len: 432 
+GET /2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 19:57:28: (response.c.241) run condition 
+2013-06-12 19:57:28: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:57:28: (response.c.301) Request-URI  :  /2.m3u8?ddd=12312 
+2013-06-12 19:57:28: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:57:28: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:57:28: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 19:57:28: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 19:57:28: (response.c.349) -- sanatising URI 
+2013-06-12 19:57:28: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 19:57:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:57:28: (response.c.470) -- before doc_root 
+2013-06-12 19:57:28: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:57:28: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 19:57:28: (response.c.473) Path         :  
+2013-06-12 19:57:28: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 19:57:28: (response.c.560) -- after doc_root 
+2013-06-12 19:57:28: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:57:28: (response.c.562) Rel-Path     : /2.m3u8 
+2013-06-12 19:57:28: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:57:28: (response.c.580) -- logical -> physical 
+2013-06-12 19:57:28: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:57:28: (response.c.582) Rel-Path     : /2.m3u8 
+2013-06-12 19:57:28: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:57:28: (response.c.600) -- handling physical path 
+2013-06-12 19:57:28: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:57:28: (response.c.767) -- handling subrequest 
+2013-06-12 19:57:28: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/2.m3u8 
+2013-06-12 19:57:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:57:28: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 19:59:49: (log.c.166) server started 
+2013-06-12 19:59:49: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 19:59:52: (request.c.307) fd: 7 request-len: 463 
+GET /2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 19:59:52: (response.c.241) run condition 
+2013-06-12 19:59:52: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:59:52: (response.c.301) Request-URI  :  /2.m3u8?ddd=12312 
+2013-06-12 19:59:52: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:59:52: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:59:52: (response.c.304) URI-path     :  /2.m3u8 
+2013-06-12 19:59:52: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 19:59:52: (response.c.349) -- sanatising URI 
+2013-06-12 19:59:52: (response.c.350) URI-path     :  /2.m3u8 
+2013-06-12 19:59:52: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:59:52: (response.c.470) -- before doc_root 
+2013-06-12 19:59:52: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.472) Rel-Path     : /2.m3u8 
+2013-06-12 19:59:52: (response.c.473) Path         :  
+2013-06-12 19:59:52: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 19:59:52: (response.c.560) -- after doc_root 
+2013-06-12 19:59:52: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.562) Rel-Path     : /2.m3u8 
+2013-06-12 19:59:52: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:59:52: (response.c.580) -- logical -> physical 
+2013-06-12 19:59:52: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.582) Rel-Path     : /2.m3u8 
+2013-06-12 19:59:52: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:59:52: (response.c.600) -- handling physical path 
+2013-06-12 19:59:52: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:59:52: (response.c.767) -- handling subrequest 
+2013-06-12 19:59:52: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 19:59:52: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:59:52: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 11:59:52 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 19:59:52: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 19:59:52: (response.c.241) run condition 
+2013-06-12 19:59:52: (response.c.300) -- splitting Request-URI 
+2013-06-12 19:59:52: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 19:59:52: (response.c.302) URI-scheme   :  http 
+2013-06-12 19:59:52: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 19:59:52: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 19:59:52: (response.c.305) URI-query    :   
+2013-06-12 19:59:52: (response.c.349) -- sanatising URI 
+2013-06-12 19:59:52: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 19:59:52: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:59:52: (response.c.470) -- before doc_root 
+2013-06-12 19:59:52: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 19:59:52: (response.c.473) Path         :  
+2013-06-12 19:59:52: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 19:59:52: (response.c.560) -- after doc_root 
+2013-06-12 19:59:52: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 19:59:52: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:59:52: (response.c.580) -- logical -> physical 
+2013-06-12 19:59:52: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 19:59:52: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 19:59:52: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:59:52: (response.c.600) -- handling physical path 
+2013-06-12 19:59:52: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:59:52: (response.c.767) -- handling subrequest 
+2013-06-12 19:59:52: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 19:59:52: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 19:59:52: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 20:16:39: (log.c.166) server started 
+2013-06-12 20:16:39: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 20:16:46: (request.c.307) fd: 7 request-len: 441 
+GET /234/2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 20:16:46: (response.c.241) run condition 
+2013-06-12 20:16:46: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:16:46: (response.c.301) Request-URI  :  /234/2.m3u8?ddd=12312 
+2013-06-12 20:16:46: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:16:46: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:16:46: (response.c.304) URI-path     :  /234/2.m3u8 
+2013-06-12 20:16:46: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 20:16:46: (response.c.349) -- sanatising URI 
+2013-06-12 20:16:46: (response.c.350) URI-path     :  /234/2.m3u8 
+2013-06-12 20:16:46: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:16:46: (response.c.470) -- before doc_root 
+2013-06-12 20:16:46: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.472) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:16:46: (response.c.473) Path         :  
+2013-06-12 20:16:46: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 20:16:46: (response.c.560) -- after doc_root 
+2013-06-12 20:16:46: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.562) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:16:46: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:16:46: (response.c.580) -- logical -> physical 
+2013-06-12 20:16:46: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.582) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:16:46: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:16:46: (response.c.600) -- handling physical path 
+2013-06-12 20:16:46: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:16:46: (response.c.767) -- handling subrequest 
+2013-06-12 20:16:46: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:16:46: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:16:46: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 12:16:46 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 20:16:46: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 20:16:46: (response.c.241) run condition 
+2013-06-12 20:16:46: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:16:46: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 20:16:46: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:16:46: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:16:46: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 20:16:46: (response.c.305) URI-query    :   
+2013-06-12 20:16:46: (response.c.349) -- sanatising URI 
+2013-06-12 20:16:46: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 20:16:46: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:16:46: (response.c.470) -- before doc_root 
+2013-06-12 20:16:46: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 20:16:46: (response.c.473) Path         :  
+2013-06-12 20:16:46: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 20:16:46: (response.c.560) -- after doc_root 
+2013-06-12 20:16:46: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 20:16:46: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:16:46: (response.c.580) -- logical -> physical 
+2013-06-12 20:16:46: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:16:46: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 20:16:46: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:16:46: (response.c.600) -- handling physical path 
+2013-06-12 20:16:46: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:16:46: (response.c.767) -- handling subrequest 
+2013-06-12 20:16:46: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:16:46: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:16:46: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 20:48:18: (log.c.166) server started 
+2013-06-12 20:48:18: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 20:48:28: (request.c.307) fd: 7 request-len: 484 
+GET /234/2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 20:48:28: (response.c.241) run condition 
+2013-06-12 20:48:28: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:48:28: (response.c.301) Request-URI  :  /234/2.m3u8?ddd=12312 
+2013-06-12 20:48:28: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:48:28: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:48:28: (response.c.304) URI-path     :  /234/2.m3u8 
+2013-06-12 20:48:28: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 20:48:28: (response.c.349) -- sanatising URI 
+2013-06-12 20:48:28: (response.c.350) URI-path     :  /234/2.m3u8 
+2013-06-12 20:48:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:48:28: (response.c.470) -- before doc_root 
+2013-06-12 20:48:28: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.472) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:48:28: (response.c.473) Path         :  
+2013-06-12 20:48:28: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 20:48:28: (response.c.560) -- after doc_root 
+2013-06-12 20:48:28: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.562) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:48:28: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:48:28: (response.c.580) -- logical -> physical 
+2013-06-12 20:48:28: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.582) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:48:28: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:48:28: (response.c.600) -- handling physical path 
+2013-06-12 20:48:28: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:48:28: (response.c.767) -- handling subrequest 
+2013-06-12 20:48:28: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:48:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:48:28: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 12:48:28 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 20:48:28: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 20:48:28: (response.c.241) run condition 
+2013-06-12 20:48:28: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:48:28: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 20:48:28: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:48:28: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:48:28: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 20:48:28: (response.c.305) URI-query    :   
+2013-06-12 20:48:28: (response.c.349) -- sanatising URI 
+2013-06-12 20:48:28: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 20:48:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:48:28: (response.c.470) -- before doc_root 
+2013-06-12 20:48:28: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 20:48:28: (response.c.473) Path         :  
+2013-06-12 20:48:28: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 20:48:28: (response.c.560) -- after doc_root 
+2013-06-12 20:48:28: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 20:48:28: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:48:28: (response.c.580) -- logical -> physical 
+2013-06-12 20:48:28: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:48:28: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 20:48:28: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:48:28: (response.c.600) -- handling physical path 
+2013-06-12 20:48:28: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:48:28: (response.c.767) -- handling subrequest 
+2013-06-12 20:48:28: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:48:28: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:48:28: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 20:51:14: (log.c.166) server started 
+2013-06-12 20:51:14: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 20:51:20: (request.c.307) fd: 7 request-len: 484 
+GET /234/2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 20:51:20: (response.c.241) run condition 
+2013-06-12 20:51:20: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:51:20: (response.c.301) Request-URI  :  /234/2.m3u8?ddd=12312 
+2013-06-12 20:51:20: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:51:20: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:51:20: (response.c.304) URI-path     :  /234/2.m3u8 
+2013-06-12 20:51:20: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 20:51:20: (response.c.349) -- sanatising URI 
+2013-06-12 20:51:20: (response.c.350) URI-path     :  /234/2.m3u8 
+2013-06-12 20:51:20: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:51:20: (response.c.470) -- before doc_root 
+2013-06-12 20:51:20: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.472) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:51:20: (response.c.473) Path         :  
+2013-06-12 20:51:20: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 20:51:20: (response.c.560) -- after doc_root 
+2013-06-12 20:51:20: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.562) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:51:20: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:51:20: (response.c.580) -- logical -> physical 
+2013-06-12 20:51:20: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.582) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:51:20: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:51:20: (response.c.600) -- handling physical path 
+2013-06-12 20:51:20: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:51:20: (response.c.767) -- handling subrequest 
+2013-06-12 20:51:20: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:51:20: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:51:20: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 105
+Date: Wed, 12 Jun 2013 12:51:20 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 20:51:20: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 20:51:20: (response.c.241) run condition 
+2013-06-12 20:51:20: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:51:20: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 20:51:20: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:51:20: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:51:20: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 20:51:20: (response.c.305) URI-query    :   
+2013-06-12 20:51:20: (response.c.349) -- sanatising URI 
+2013-06-12 20:51:20: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 20:51:20: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:51:20: (response.c.470) -- before doc_root 
+2013-06-12 20:51:20: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 20:51:20: (response.c.473) Path         :  
+2013-06-12 20:51:20: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 20:51:20: (response.c.560) -- after doc_root 
+2013-06-12 20:51:20: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 20:51:20: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:51:20: (response.c.580) -- logical -> physical 
+2013-06-12 20:51:20: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:51:20: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 20:51:20: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:51:20: (response.c.600) -- handling physical path 
+2013-06-12 20:51:20: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:51:20: (response.c.767) -- handling subrequest 
+2013-06-12 20:51:20: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:51:20: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:51:20: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 20:55:50: (log.c.166) server started 
+2013-06-12 20:55:50: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 20:55:54: (request.c.307) fd: 7 request-len: 484 
+GET /234/2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 20:55:54: (response.c.241) run condition 
+2013-06-12 20:55:54: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:55:54: (response.c.301) Request-URI  :  /234/2.m3u8?ddd=12312 
+2013-06-12 20:55:54: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:55:54: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:55:54: (response.c.304) URI-path     :  /234/2.m3u8 
+2013-06-12 20:55:54: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 20:55:54: (response.c.349) -- sanatising URI 
+2013-06-12 20:55:54: (response.c.350) URI-path     :  /234/2.m3u8 
+2013-06-12 20:55:54: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:55:54: (response.c.470) -- before doc_root 
+2013-06-12 20:55:54: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.472) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:55:54: (response.c.473) Path         :  
+2013-06-12 20:55:54: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 20:55:54: (response.c.560) -- after doc_root 
+2013-06-12 20:55:54: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.562) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:55:54: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:55:54: (response.c.580) -- logical -> physical 
+2013-06-12 20:55:54: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.582) Rel-Path     : /234/2.m3u8 
+2013-06-12 20:55:54: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:55:54: (response.c.600) -- handling physical path 
+2013-06-12 20:55:54: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:55:54: (response.c.767) -- handling subrequest 
+2013-06-12 20:55:54: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 20:55:54: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:55:54: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 248
+Date: Wed, 12 Jun 2013 12:55:54 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 20:55:54: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 20:55:54: (response.c.241) run condition 
+2013-06-12 20:55:54: (response.c.300) -- splitting Request-URI 
+2013-06-12 20:55:54: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 20:55:54: (response.c.302) URI-scheme   :  http 
+2013-06-12 20:55:54: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 20:55:54: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 20:55:54: (response.c.305) URI-query    :   
+2013-06-12 20:55:54: (response.c.349) -- sanatising URI 
+2013-06-12 20:55:54: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 20:55:54: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:55:54: (response.c.470) -- before doc_root 
+2013-06-12 20:55:54: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 20:55:54: (response.c.473) Path         :  
+2013-06-12 20:55:54: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 20:55:54: (response.c.560) -- after doc_root 
+2013-06-12 20:55:54: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 20:55:54: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:55:54: (response.c.580) -- logical -> physical 
+2013-06-12 20:55:54: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 20:55:54: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 20:55:54: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:55:54: (response.c.600) -- handling physical path 
+2013-06-12 20:55:54: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:55:54: (response.c.767) -- handling subrequest 
+2013-06-12 20:55:54: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 20:55:54: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 20:55:54: (mod_staticfile.c.408) -- handling file as static file 
+2013-06-12 21:03:03: (log.c.166) server started 
+2013-06-12 21:03:03: (mod_dirlisting.c.228) pcre support is missing, please install libpcre and the headers 
+2013-06-12 21:03:14: (request.c.307) fd: 7 request-len: 484 
+GET /234/2.m3u8?ddd=12312 HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+Cache-Control: no-cache
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+DNT: 1
+Referer: http://192.168.0.106/2.m3u8?ddd=12312
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: GBK,utf-8;q=0.7,*;q=0.3
+
+ 
+2013-06-12 21:03:14: (response.c.241) run condition 
+2013-06-12 21:03:14: (response.c.300) -- splitting Request-URI 
+2013-06-12 21:03:14: (response.c.301) Request-URI  :  /234/2.m3u8?ddd=12312 
+2013-06-12 21:03:14: (response.c.302) URI-scheme   :  http 
+2013-06-12 21:03:14: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 21:03:14: (response.c.304) URI-path     :  /234/2.m3u8 
+2013-06-12 21:03:14: (response.c.305) URI-query    :  ddd=12312 
+2013-06-12 21:03:14: (response.c.349) -- sanatising URI 
+2013-06-12 21:03:14: (response.c.350) URI-path     :  /234/2.m3u8 
+2013-06-12 21:03:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 21:03:14: (response.c.470) -- before doc_root 
+2013-06-12 21:03:14: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.472) Rel-Path     : /234/2.m3u8 
+2013-06-12 21:03:14: (response.c.473) Path         :  
+2013-06-12 21:03:14: (response.c.518) rel_path_ptr     : 3u8 
+2013-06-12 21:03:14: (response.c.560) -- after doc_root 
+2013-06-12 21:03:14: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.562) Rel-Path     : /234/2.m3u8 
+2013-06-12 21:03:14: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 21:03:14: (response.c.580) -- logical -> physical 
+2013-06-12 21:03:14: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.582) Rel-Path     : /234/2.m3u8 
+2013-06-12 21:03:14: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 21:03:14: (response.c.600) -- handling physical path 
+2013-06-12 21:03:14: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 21:03:14: (response.c.767) -- handling subrequest 
+2013-06-12 21:03:14: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/1.m3u8 
+2013-06-12 21:03:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 21:03:14: (response.c.128) Response-Header: 
+HTTP/1.1 200 OK
+Content-Length: 248
+Date: Wed, 12 Jun 2013 13:03:14 GMT
+Server: lighttpd/1.4.32
+
+ 
+2013-06-12 21:03:14: (request.c.307) fd: 8 request-len: 298 
+GET /favicon.ico HTTP/1.1
+Host: 192.168.0.106
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Maxthon/4.0.6.2000 Chrome/26.0.1410.43 Safari/537.1
+Accept-Encoding: gzip,deflate
+Accept-Language: zh-CN
+Accept-Charset: iso-8859-1,*,utf-8
+
+ 
+2013-06-12 21:03:14: (response.c.241) run condition 
+2013-06-12 21:03:14: (response.c.300) -- splitting Request-URI 
+2013-06-12 21:03:14: (response.c.301) Request-URI  :  /favicon.ico 
+2013-06-12 21:03:14: (response.c.302) URI-scheme   :  http 
+2013-06-12 21:03:14: (response.c.303) URI-authority:  192.168.0.106 
+2013-06-12 21:03:14: (response.c.304) URI-path     :  /favicon.ico 
+2013-06-12 21:03:14: (response.c.305) URI-query    :   
+2013-06-12 21:03:14: (response.c.349) -- sanatising URI 
+2013-06-12 21:03:14: (response.c.350) URI-path     :  /favicon.ico 
+2013-06-12 21:03:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 21:03:14: (response.c.470) -- before doc_root 
+2013-06-12 21:03:14: (response.c.471) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.472) Rel-Path     : /favicon.ico 
+2013-06-12 21:03:14: (response.c.473) Path         :  
+2013-06-12 21:03:14: (response.c.518) rel_path_ptr     : ico 
+2013-06-12 21:03:14: (response.c.560) -- after doc_root 
+2013-06-12 21:03:14: (response.c.561) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.562) Rel-Path     : /favicon.ico 
+2013-06-12 21:03:14: (response.c.563) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 21:03:14: (response.c.580) -- logical -> physical 
+2013-06-12 21:03:14: (response.c.581) Doc-Root     : /home/sknown/lighttpd_install/webpages 
+2013-06-12 21:03:14: (response.c.582) Rel-Path     : /favicon.ico 
+2013-06-12 21:03:14: (response.c.583) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 21:03:14: (response.c.600) -- handling physical path 
+2013-06-12 21:03:14: (response.c.601) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 21:03:14: (response.c.767) -- handling subrequest 
+2013-06-12 21:03:14: (response.c.768) Path         : /home/sknown/lighttpd_install/webpages/favicon.ico 
+2013-06-12 21:03:14: (mod_access.c.135) -- mod_access_uri_handler called 
+2013-06-12 21:03:14: (mod_staticfile.c.408) -- handling file as static file 
